@@ -1,3 +1,10 @@
+<!--- SHINU FORK: shinu-llm-eval-toolkit --->
+> **🧪 Shinu AI Labs Fork — `shinu-llm-eval-toolkit`** · Structured outputs for AI Quality Engineering.  
+> See [SHINU_README.md](./SHINU_README.md) for QE integration and [QE_USE_CASES.md](./QE_USE_CASES.md) for QA/testing examples.  
+> [Upstream](https://github.com/dottxt-ai/outlines) · Apache 2.0 · ⭐ 14.7K
+
+---
+
 <div align="center" style="margin-bottom: 1em;">
 
 <img src="./docs/assets/images/logo-light-mode.svg#gh-light-mode-only" alt="Outlines Logo" width=300></img>
