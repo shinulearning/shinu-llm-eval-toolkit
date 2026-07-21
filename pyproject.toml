@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "outlines"
-authors= [{name = "Outlines Developers"}]
-description = "Probabilistic Generative Model Programming"
+authors= [{name = "Shinu AI Labs — shinulearning", email = "shinulearning@gmail.com"}]
+description = "shinu-llm-eval-toolkit — Structured LLM outputs for AI Quality Engineering (fork of dottxt-ai/outlines)"
 requires-python = ">=3.10,<3.14"
 license = {text = "Apache-2.0"}
 keywords=[
@@ -100,9 +100,9 @@ test = [
 test-gpu = ["outlines[test]"]
 
 [project.urls]
-homepage = "https://github.com/dottxt-ai/outlines"
-documentation = "https://dottxt-ai.github.io/outlines/"
-repository = "https://github.com/dottxt-ai/outlines"
+homepage = "https://github.com/shinulearning/shinu-llm-eval-toolkit"
+documentation = "https://github.com/shinulearning/shinu-llm-eval-toolkit/blob/main/SHINU_README.md"
+repository = "https://github.com/shinulearning/shinu-llm-eval-toolkit"
 
 [project.readme]
 file="README.md"
